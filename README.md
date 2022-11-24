@@ -1,3 +1,10 @@
+## Introduction
+In this project I created the classic "Arkanoid" or "Brick Breaker" video game based on OOP concepts. 
+The implementation includes various levels with increasing difficulty, usage of polymorphism, inheritance, design
+patterns (decorator, observer), encapsulation, abstraction, and generic collections
+data structures (linked lists, maps, etc.), all in a user-friendly GUI platform.
+
+
 ## Preview
 <p>
   <img width="600" height="500" src="images/giphy.gif">
