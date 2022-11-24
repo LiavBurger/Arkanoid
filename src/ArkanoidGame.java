@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * This class will be used to run the "Assignment 6 Game".
  */
-public class Ass6Game {
+public class ArkanoidGame {
 
     /**
      * Main function to run the game.
