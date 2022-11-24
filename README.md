@@ -1,5 +1,9 @@
-## Installation
+## Preview
+<p>
+  <img width="600" height="500" src="images/giphy.gif">
+</p>
 
+## Installation
 
 1. Clone the repository:
     ```
